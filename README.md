@@ -4,7 +4,7 @@
 
 | Practice      | Directory     |
 | ------------- |:-------------:|
-
+<!--  -->
 | [Variational Recurrent Neural Network](https://arxiv.org/abs/1506.02216) | 
   variational_rnn |
 <!--  -->
